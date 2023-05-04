@@ -3,11 +3,11 @@
     width: 100%;
     min-width: 320px;
     max-width: 1184px;
-    max-height: 740px;
     margin: 92px auto 0;
     display: grid;
     background-size: cover;
-    height: calc(100vw * 0.625);
+    background-position: center;
+    min-height: calc(100vw * 0.625);
     grid-template-columns: 1fr;
 }
 
