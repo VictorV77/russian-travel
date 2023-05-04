@@ -3,4 +3,10 @@
     grid-row: 1;
     grid-column: 1;
     z-index: 2;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.cover__content:hover+.cover__overlay {
+    opacity: 0.8;
 }
