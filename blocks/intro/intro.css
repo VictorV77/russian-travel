@@ -1,0 +1,21 @@
+.intro {
+  margin: 92px 48px 0;
+}
+
+@media screen and (min-width:1280px) {
+  .intro {
+    margin: 92px 148px 0px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .intro {
+    margin: 88px 24px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro {
+    margin: 64px 16px 0;
+  }
+}
